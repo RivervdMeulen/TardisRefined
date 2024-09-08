@@ -1,9 +1,11 @@
-# Version 2.0.5
+# Version 2.0.7
 
 ![TARDIS Refined](https://wiki.tardisrefined.net/TARDIS-Refined-Wiki/tardis_refined_v2.png)
 
-## Bug Fix
-- Door locking/unlocking now has a hotbar message
-- Adds Classic Interior
-- Fixed ending the flight early placing the TARDIS at the wrong location
-- Speed Upgrades :)
+## Gameplay Fixes
+- Fixed bulkheads and eye of harmony no longer stopping rendering when looking at certain angles
+- Fixed diagonal walls messing with recipes
+- Fixed landing issue where pattern would be forgotten
+- Fixed issue where unused walter_white.png was breaking the game's mipmaps
+- Fixed sound profiles crashing on certain shells
+- Added "Compatibility" with [DiagonalWalls](https://www.curseforge.com/minecraft/mc-mods/diagonal-walls)
