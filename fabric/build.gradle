@@ -11,6 +11,7 @@ architectury {
 loom {
     accessWidenerPath = project(":common").loom.accessWidenerPath
 }
+//
 
 //if (System.getenv("curseforge") != null && System.getenv("modrinth") != null) {
 
